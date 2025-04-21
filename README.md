@@ -68,7 +68,7 @@ I am a Python developer with extensive experience in AI and Generative AI. I am 
 
 - **Email**: [rachanshetty7@gmail.com](mailto:rachanshetty7@gmail.com)
 - **GitHub**: [github.com/rshetty7](https://github.com/rshetty7)
-- **LinkedIn**: [linkedin.com/in/rachan-shetty-182bb6228]
+- **LinkedIn**: [rachan-shetty-182bb6228](linkedin.com/in/rachan-shetty-182bb6228)
 
 ---
 
